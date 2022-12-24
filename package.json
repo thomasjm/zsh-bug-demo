@@ -9,6 +9,6 @@
   "author": "Tom McLaughlin",
   "license": "ISC",
   "dependencies": {
-    "node-pty": "0.8.1"
+    "node-pty": "0.10.1"
   }
 }

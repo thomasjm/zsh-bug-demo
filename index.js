@@ -20,5 +20,6 @@ ptyProcess.on('data', function(data) {
 });
 
 ptyProcess.write('ls\r');
+// ptyProcess.write('asdf\r');
 
 // Terminal crashes
